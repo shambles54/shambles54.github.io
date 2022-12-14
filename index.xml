@@ -8,36 +8,28 @@
         <language>en-us</language>
         <lastBuildDate>Wed, 14 Dec 2022 18:40:57 +0800</lastBuildDate><atom:link href="https://shambles54.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>MySecendPost</title>
-        <link>https://shambles54.github.io/post/my_secend_post/</link>
+        <link>https://shambles54.github.io/post/my_secend_post/test/</link>
         <pubDate>Wed, 14 Dec 2022 18:40:57 +0800</pubDate>
         
-        <guid>https://shambles54.github.io/post/my_secend_post/</guid>
+        <guid>https://shambles54.github.io/post/my_secend_post/test/</guid>
         <description>&lt;h1 id=&#34;secend-test&#34;&gt;secend test&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://shambles54.github.io/post/my_secend_post/image1.png&#34;
-	width=&#34;886&#34;
-	height=&#34;267&#34;
-	srcset=&#34;https://shambles54.github.io/post/my_secend_post/image1_huf9f28221698cc04bdee13fbe9d3b7b29_46441_480x0_resize_box_3.png 480w, https://shambles54.github.io/post/my_secend_post/image1_huf9f28221698cc04bdee13fbe9d3b7b29_46441_1024x0_resize_box_3.png 1024w&#34;
+&lt;p&gt;&lt;img src=&#34;https://shambles54.github.io/image1.png&#34;
+	
+	
+	
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 1&#34;
 	
 	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;331&#34;
-		data-flex-basis=&#34;796px&#34;
+&gt;&lt;img src=&#34;https://shambles54.github.io/image2.jpg&#34;
 	
-&gt;&lt;img src=&#34;https://shambles54.github.io/post/my_secend_post/image2.jpg&#34;
-	width=&#34;1024&#34;
-	height=&#34;724&#34;
-	srcset=&#34;https://shambles54.github.io/post/my_secend_post/image2_huc42d81720b23abd326622b35672aabdb_134161_480x0_resize_q75_box.jpg 480w, https://shambles54.github.io/post/my_secend_post/image2_huc42d81720b23abd326622b35672aabdb_134161_1024x0_resize_q75_box.jpg 1024w&#34;
+	
+	
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 2&#34;
 	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;141&#34;
-		data-flex-basis=&#34;339px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;remove comment&lt;/p&gt;
@@ -49,14 +41,18 @@
         <pubDate>Wed, 14 Dec 2022 18:32:29 +0800</pubDate>
         
         <guid>https://shambles54.github.io/post/my_first_post/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://shambles54.github.io/image1.png&#34;
-	
-	
-	
+        <description>&lt;p&gt;&lt;img src=&#34;https://shambles54.github.io/post/my_first_post/image1.png&#34;
+	width=&#34;886&#34;
+	height=&#34;267&#34;
+	srcset=&#34;https://shambles54.github.io/post/my_first_post/image1_huf9f28221698cc04bdee13fbe9d3b7b29_46441_480x0_resize_box_3.png 480w, https://shambles54.github.io/post/my_first_post/image1_huf9f28221698cc04bdee13fbe9d3b7b29_46441_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 1&#34;
 	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;331&#34;
+		data-flex-basis=&#34;796px&#34;
 	
 &gt;
 &lt;img src=&#34;https://shambles54.github.io/post/my_first_post/image2.jpg&#34;
@@ -94,6 +90,7 @@
 
 &lt;p&gt;index test&lt;/p&gt;
 &lt;p&gt;rm VEDIO_ID&lt;/p&gt;
+&lt;p&gt;rm dot before picture address&lt;/p&gt;
 </description>
         </item>
         
